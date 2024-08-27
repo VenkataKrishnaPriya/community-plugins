@@ -1,5 +1,11 @@
 # @backstage-community/plugin-bazaar-backend
 
+## 0.3.18
+
+### Patch Changes
+
+- 23c908d: Backstage version bump to v1.30.2
+
 ## 0.3.17
 
 ### Patch Changes
